@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="src\ta_log.cpp" />
+    <ClCompile Include="src\main.cpp" />
+    <ClCompile Include="src\ta_timer.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="src\ta_log.hpp" />
+    <ClInclude Include="src\ta_timer.hpp" />
+  </ItemGroup>
+</Project>
